@@ -2,8 +2,8 @@ trigger: none
 
 variables:
   REPO_DIR: $(Build.SourcesDirectory)
-  TENANT_NAME: example.onmicrosoft.com
-  CLIENT_ID: 
+  TENANT_NAME: ITJAKLLC.onmicrosoft.com
+  CLIENT_ID: fbd76c1e-6b0d-4933-932b-b177ab37e4df
   FOLDER_ONE: $(REPO_DIR)/Backup
   FOLDER_TWO: $(REPO_DIR)/Copy
 
